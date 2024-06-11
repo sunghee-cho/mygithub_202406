@@ -1,0 +1,1 @@
+sub1 브랜치에서 파일 추가 - add - commit - push 
